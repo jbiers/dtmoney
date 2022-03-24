@@ -6,3 +6,4 @@
 - CSS filter tag
 - using HTML tables
 - simulating a backend for development environment: JSON server or MirageJS.
+- using Axios to interact with apis
