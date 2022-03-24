@@ -5,3 +5,4 @@
 - How to import fonts from Google Fonts in a faster way.
 - CSS filter tag
 - using HTML tables
+- simulating a backend for development environment: JSON server or MirageJS.
