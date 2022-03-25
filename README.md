@@ -10,3 +10,5 @@
 - using react-modal to create modals
 - Using Polished for color manipulation
 - Passing arguments to styled components components
+- Pattern: functions that are called upon user action have a name starting with 'handle'
+- Dealing with forms in React
