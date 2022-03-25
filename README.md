@@ -9,3 +9,4 @@
 - using Axios to interact with apis
 - using react-modal to create modals
 - Using Polished for color manipulation
+- Passing arguments to styled components components
