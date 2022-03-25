@@ -8,3 +8,4 @@
 - simulating a backend for development environment: JSON server or MirageJS.
 - using Axios to interact with apis
 - using react-modal to create modals
+- Using Polished for color manipulation
