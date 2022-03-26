@@ -12,3 +12,7 @@
 - Passing arguments to styled components components
 - Pattern: functions that are called upon user action have a name starting with 'handle'
 - Dealing with forms in React
+- MirageJS database
+- Add data to mirage database
+- Intl library
+- Contexts for sharing states among different components
