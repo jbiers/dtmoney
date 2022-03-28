@@ -5,10 +5,47 @@
 <p align="center">App to easily keep track of your finances</p>
     <p align="center">             
 <img src="https://img.shields.io/static/v1?label=License&message=MIT&color=33CC95&style=for-the-badge&logo=ghost"/>
- </p>                                                                                                                
- 
+ </p> 
+                                                                                                                 
+### ❔ About
+App developed during Rocketseat Ignite bootcamp on React.                                                                                                                 
+### 🎈 Features
+
+- [x] Add new transaction
+- [x] Show total transactions, withdraws and final value
+- [x] Show transaction history
+                                                                                                                 
+### 🖥 How to use it
+  You can check the live version [HERE](sdjsdf)
+                                                                                                                 
+  Or run locally
+  ```bash
+# Clone this repository
+$ git clone <https://github.com/jbiers/dtmoney>
+
+# Access the project folder
+$ cd dtmoney
+
+# Install the dependencies
+$ npm install
+
+# Start application in development mode
+$ npm run start
+
+# The server will start on port: 3000. Access <http://localhost:3000>
+```                                                                                                              
+                                                                                                                 
+### 🛠 Technologies
+
+The following technologies were used in the development of this project:
+
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Axios](https://axios-http.com/)
+- [Polished](https://polished.js.org/)
+- [MirageJS](https://miragejs.com/)                                                                                                                 
                          
-## What I've Learned
+### 📚 Learned
 - How to use Styled Components.
 - Define global style for a project.
 - Why use rem units and why set mobile font-size as a percentage.
