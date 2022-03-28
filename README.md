@@ -7,7 +7,17 @@
 <img src="https://img.shields.io/static/v1?label=License&message=MIT&color=33CC95&style=for-the-badge&logo=ghost"/>
  </p> 
                                                                                                                  
-### ❔ About
+                                                                                                                
+<p align="center">             
+<img src="https://user-images.githubusercontent.com/85142222/160461853-5e82b8fa-bcc8-4def-8618-e953cc3d9987.png"/>
+ </p> 
+ <p align="center">             
+<img src="https://user-images.githubusercontent.com/85142222/160462195-d6cfc4f1-94ac-4afc-b203-8415e9ee9e8b.png"/>
+ </p>                                                                                                               
+     
+
+                                                                                                  
+### ❔ About                                                                          
 ---                                                                                                                 
 App developed during Rocketseat Ignite bootcamp on React.                                                                                                                 
 ### 🎈 Features
