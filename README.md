@@ -1,7 +1,13 @@
 <p align="center">
-  <img width="400": black" src="https://github.com/jbiers/dtmoney/blob/main/public/favicon.png" alt="logo">
+  <img width="55": black" src="https://github.com/jbiers/dtmoney/blob/main/public/favicon.png" alt="logo">
 </p>
-
+<h1 align="center">dtmoney</h1>
+<p align="center">App to easily keep track of your finances</p>
+    <p align="center">             
+<img src="https://img.shields.io/static/v1?label=License&message=MIT&color=33CC95&style=for-the-badge&logo=ghost"/>
+ </p>                                                                                                                
+ 
+                         
 ## What I've Learned
 - How to use Styled Components.
 - Define global style for a project.
