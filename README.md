@@ -1,4 +1,8 @@
-![logo](https://github.com/jbiers/dtmoney/blob/main/public/favicon.png)
+
+
+<p align="center">
+  <img width="50" src="https://github.com/jbiers/dtmoney/blob/main/public/favicon.png" alt="logo">
+</p>
 
 ## What I've Learned
 - How to use Styled Components.
