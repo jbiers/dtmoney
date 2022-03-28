@@ -16,3 +16,4 @@
 - Add data to mirage database
 - Intl library
 - Contexts for sharing states among different components
+- Using react context
