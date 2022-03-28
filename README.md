@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img width="50" src="https://github.com/jbiers/dtmoney/blob/main/public/favicon.png" alt="logo">
+  <img width="400": black" src="https://github.com/jbiers/dtmoney/blob/main/src/assets/logo.svg" alt="logo">
 </p>
 
 ## What I've Learned
