@@ -1,3 +1,5 @@
+![logo](https://github.com/jbiers/dtmoney/blob/main/public/favicon.png)
+
 ## What I've Learned
 - How to use Styled Components.
 - Define global style for a project.
