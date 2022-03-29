@@ -28,7 +28,7 @@ App developed during Rocketseat Ignite bootcamp on React.
                                                                                                                  
 ### 🖥 How to use it
 ---                                                                                                                 
-  You can check the live version [HERE](sdjsdf)
+  You can check the live version [HERE](https://dtmoney-jbiers.netlify.app/)
                                                                                                                  
   Or run locally
   ```bash
